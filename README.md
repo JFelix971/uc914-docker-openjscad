@@ -17,4 +17,4 @@ $ sudo docker run -p 9000:80 "nom_fichier":latest
 ## Stopper image docker
 
 $ sudo docker stop "nom_fichier"
-ou bien un ctrl-C ou exit.
+* ou bien un ctrl-C ou exit.
