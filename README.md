@@ -12,7 +12,7 @@ $ sudo docker build . -t "nom_fichier":latest
 
 ## Demarrer/exec image docker
 
-$ sudo docker run -p 9000:80 "nom_fichier":latest
+$ sudo docker run -p 80:9000 "nom_fichier":latest
 
 ## Stopper image docker
 
